@@ -1,1 +1,1 @@
-"#Informatik 4 Std" 
+#Informatik 4 Std
