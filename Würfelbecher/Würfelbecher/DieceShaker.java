@@ -37,8 +37,8 @@ public class DieceShaker
         int resultPriv = 0;
         for(Dice d: dice){
             resultPriv = d.throwDice();
+            result += resultPriv;
         }
-        result = resultPriv;
     }
     
     public int getResult(){
