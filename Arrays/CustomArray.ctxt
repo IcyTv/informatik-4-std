@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=CustomArray
+comment0.text=\r\n\ HAUSAUFGABE\r\n\r\n\ @author\ IcyTv\r\n\ @version\ 05.10.2018\r\n
+comment1.params=length
+comment1.target=CustomArray(int)
+comment10.params=filename
+comment10.target=void\ readFile(java.lang.String)
+comment2.params=
+comment2.target=void\ fillRandom()
+comment3.params=
+comment3.target=void\ fillRandomNoRepeat()
+comment4.params=array
+comment4.target=int\ max(boolean)
+comment5.params=array
+comment5.target=int\ min(boolean)
+comment6.params=array
+comment6.target=int\ sum(boolean)
+comment7.params=array
+comment7.target=int\ sumOdd(boolean)
+comment8.params=array
+comment8.target=int\ sumEven(boolean)
+comment9.params=array\ threshold
+comment9.target=void\ threshold(boolean,\ int)
+numComments=11
